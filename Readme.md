@@ -190,6 +190,11 @@ ONNX Runtime
         |
 Regression Model
 
+## Pending
+
+frontend docker 
+fullstack docker compose
+
 
 ## ✅ Key Learnings
 
