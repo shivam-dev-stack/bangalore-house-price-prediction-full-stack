@@ -4,6 +4,10 @@ This project is an end-to-end machine learning application that predicts house p
 
 Unlike notebook-only ML projects, this focuses on real-world engineering: data cleaning, feature engineering, model deployment, API creation, containerization, and frontend integration.
 
+Dataset used: Bangalore House Price Dataset (Kaggle)
+
+Download link: <https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data>
+
 **Note: Demo project – not deployed publicly**
 ---
 
