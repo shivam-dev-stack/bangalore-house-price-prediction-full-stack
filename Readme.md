@@ -4,6 +4,7 @@ This project is an end-to-end machine learning application that predicts house p
 
 Unlike notebook-only ML projects, this focuses on real-world engineering: data cleaning, feature engineering, model deployment, API creation, containerization, and frontend integration.
 
+**Note: Demo project – not deployed publicly**
 ---
 
 ## Tech Stack
