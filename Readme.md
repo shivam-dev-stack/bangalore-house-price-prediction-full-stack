@@ -1,4 +1,4 @@
-# 🏠 Bangalore House Price Prediction – Full Stack ML SaaS
+# Bangalore House Price Prediction – Full Stack ML SaaS
 
 This project is an end-to-end machine learning application that predicts house prices in Bangalore using regression models and deploys the trained model as a production-ready SaaS using FastAPI, ONNX, Docker, and a React frontend.
 
@@ -6,7 +6,7 @@ Unlike notebook-only ML projects, this focuses on real-world engineering: data c
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Machine Learning
 - Python
@@ -39,7 +39,7 @@ The raw dataset contained missing values, inconsistent formats, and significant 
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Key visualizations:
 
@@ -88,7 +88,7 @@ Scatter plot close to diagonal indicates good regression fit.
 
 ---
 
-## 🧹 Data Cleaning & Feature Engineering
+## Data Cleaning & Feature Engineering
 
 Performed production-style preprocessing:
 
@@ -106,7 +106,7 @@ Result: industry-grade clean dataset.
 
 ---
 
-## 🤖 Modeling
+## Modeling
 
 Models tried:
 
@@ -119,7 +119,7 @@ Model exported to **ONNX** for production inference.
 
 ---
 
-## 🧠 ONNX Inference
+## ONNX Inference
 
 Instead of pickle, ONNX was used for:
 
@@ -130,7 +130,7 @@ Instead of pickle, ONNX was used for:
 
 ---
 
-## 🔌 FastAPI Backend
+## FastAPI Backend
 
 API Endpoint:
 
@@ -155,14 +155,14 @@ Output:
 ```
 ---
 
-## 🐳 Dockerized Deployment
+## Dockerized Deployment
 
 Backend fully containerized:
 
 React → FastAPI → ONNX Runtime
 
 
-## 🖥 React Frontend
+## React Frontend
 
 Simple UI:
 
@@ -179,7 +179,7 @@ Predict button
 Displays estimated house price in real time.
 
 
-## 🏗 Architecture
+## Architecture
 
 React Frontend
         |
@@ -200,7 +200,7 @@ ONNX simplifies production inference
 
 Docker removes environment issues
 
-ML + Backend + Frontend = real SaaS
+ML + Backend + Frontend = Product
 
 
 ### Author
